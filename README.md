@@ -14,8 +14,6 @@
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7d9bc7c0-3bb3-4600-8ff9-209bf738b094" />
 
-Here's the development approach section to add to your README.md:
-
 ## 🛠️ **Development Approach**
 
 ### Backend Development:
